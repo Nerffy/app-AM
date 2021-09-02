@@ -3,13 +3,13 @@
 Software criado para discutir os conceitos de criação de uma aplicação Web usando o Design Pattern Model-View-Controller, bem como o uso do Javascript tanto no cliente quanto no servidor.
 
 ## Autor
-Gabriela Medeiros da Silva e Wellington Wagner F. Sarmento
+João Vieira Maciel e Wellington Wagner F. Sarmento
 
 ## Colaboradores
 Paulo Henrique Gomes
 Guilherme Cayres
 Gustavo Mendes
-João Vieira
+Gabriela Medeiros da Silva
 Mattheus Dell Vianple
 
 ## Pré-Requisito
