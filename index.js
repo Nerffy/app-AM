@@ -44,6 +44,8 @@ for (let cont=0;cont<20;cont++){
 app.set('view engine','ejs');
 app.use(expressLayouts);
 
+app.use(express.static("public") );
+
 app.use(express.urlencoded({extended:false})); //prepara a aplicacao para receber dados na forma de query string
 app.use(express.json()); //prepara a aplicacao para receber dados no formato JSON
 
